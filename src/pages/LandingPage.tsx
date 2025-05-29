@@ -54,7 +54,7 @@ const LandingPage: React.FC = () => {
                 <h1 className="text-4xl md:text-5xl font-bold mb-4">Connect with Students Worldwide</h1>
                 <p className="text-xl mb-8 text-brand-50">Join our global community of students to chat, share ideas, and make new friends.</p>
                 <Button
-                  onClick={() => navigate('/chat-access')}
+                  onClick={() => navigate('/countries')}
                   size="lg"
                   className="bg-white text-brand-600 hover:bg-brand-50"
                 >
