@@ -164,8 +164,8 @@ const LandingPage: React.FC = () => {
 
 function getMessageContent(index: number): string {
   const messages = [
-    "Has anyone joined the University of Greenwich before?"
-    "Yes! I've heard the campus life is amazing, but getting used to the coursework can be tough."
+    "Has anyone joined the University of Greenwich before?",
+    "Yes! I've heard the campus life is amazing, but getting used to the coursework can be tough.",
     "I have some great tips and notes from orientation if anyone needs help settling in!"
   ];
   return messages[index];
