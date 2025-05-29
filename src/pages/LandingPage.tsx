@@ -147,7 +147,7 @@ const LandingPage: React.FC = () => {
               Join thousands of students already using StudentConnect to make friends, share knowledge, and build a global network.
             </p>
             <Button
-              onClick={() => navigate('/chat-access')}
+              onClick={() => navigate('/countries')}
               size="lg"
               className="animate-bounce"
             >
